@@ -1,0 +1,42 @@
+#square {
+    position: relative;
+    width: 100%;
+    height: 6000px;
+    background-color: #8A2BE2;
+}
+
+.important {
+  position: absolute;
+  font-family: 'helvetica', sans-serif;
+  font-size: 15px;
+  left: 500px;
+  top: 40px;
+  color: #7FFF00;
+}
+
+.importanttwo {
+  position: absolute;
+  font-family: 'helvetica', sans-serif;
+  font-size: 15px;
+  left: 500.8px;
+  top: 40px;
+  color: #7FFF00;
+}
+
+.date {
+  position: absolute;
+  font-family: 'helvetica', sans-serif;
+  font-size: 30px;
+  left: 30px;
+  top: 100px;
+  color: yellow;
+}
+
+.text {
+  position: absolute;
+  font-family: 'helvetica', sans-serif;
+  font-size: 8px;
+  left: 30px;
+  top: 180px;
+  color: yellow;
+}
